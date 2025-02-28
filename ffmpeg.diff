@@ -1,0 +1,5 @@
+no difffffffffffff
+add
++OBJS-$(CONFIG_GLTRANSITION_FILTER)           += vf_gltransition.o
+ 
++extern const AVFilter ff_vf_gltransition;
